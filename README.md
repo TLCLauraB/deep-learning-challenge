@@ -1,9 +1,16 @@
 <img src="https://github.com/TLCLauraB/deep-learning-challenge/blob/main/img/alpha-color.png" width=15%  align=left>Module 21 Challenge: Nonprofit Future Speculation Using Deep Learning <br/>
-Presented by Laura Bishop (TLCLauraB)<br/><br/>
+Presented by Laura Bishop (TLCLauraB)<br/>
 <br/>
 <br/>
 <br/>
 <br/>
+### Table of Contents:
+* [Folder - Deep Learning Challenge](https://github.com/TLCLauraB/deep-learning-challenge/tree/main/Deep%20Learning%20Challenge)
+    * [File: Starter_Code-LAB](https://github.com/TLCLauraB/deep-learning-challenge/blob/main/Deep%20Learning%20Challenge/Starter_Code-LAB.ipynb)
+    * [File: AlphabetSoupCharity](https://github.com/TLCLauraB/deep-learning-challenge/blob/main/Deep%20Learning%20Challenge/AlphabetSoupCharity.h5)
+    * [File: AlphabetSoupCharity_Optimization](https://github.com/TLCLauraB/deep-learning-challenge/blob/main/Deep%20Learning%20Challenge/AlphabetSoupCharity_Optimization.ipynb)
+<br/>
+
 ## Overview of the Analysis:
 The purpose of this analysis is to leverage machine learning and neural networks to develop a binary classifier for Alphabet Soup, a nonprofit foundation seeking to optimize its funding selection process. The dataset provided contains information on over 34,000 organizations that have received funding from Alphabet Soup, including details such as industry affiliation, government classification, organization type, financial status, and the effectiveness of the funding usage. The goal is to create a predictive model that can evaluate and classify organizations based on their likelihood of success if funded. By utilizing features such as application type, affiliation, and income classification, the classifier aims to assist Alphabet Soup in identifying applicants with the highest probability of effectively utilizing the funds provided, ultimately improving the foundation's decision-making process in selecting potential grant recipients.
 
